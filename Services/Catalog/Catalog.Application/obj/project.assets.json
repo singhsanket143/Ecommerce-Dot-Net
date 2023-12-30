@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Catalog.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Catalog.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Catalog.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Catalog.Core/1.0.0": {
+      "type": "project",
+      "path": "../Catalog.Core/Catalog.Core.csproj",
+      "msbuildProject": "../Catalog.Core/Catalog.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Catalog.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/sanketsingh/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/Catalog.Application.csproj",
+      "projectName": "Catalog.Application",
+      "projectPath": "/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/Catalog.Application.csproj",
+      "packagesPath": "/Users/sanketsingh/.nuget/packages/",
+      "outputPath": "/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/sanketsingh/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Core/Catalog.Core.csproj": {
+              "projectPath": "/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Core/Catalog.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Users/sanketsingh/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

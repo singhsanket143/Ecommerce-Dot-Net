@@ -1,0 +1,15 @@
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/bin/Debug/net8.0/Catalog.Application.deps.json
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/bin/Debug/net8.0/Catalog.Application.dll
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/bin/Debug/net8.0/Catalog.Application.pdb
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.AssemblyInfoInputs.cache
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.AssemblyInfo.cs
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.csproj.CoreCompileInputs.cache
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.dll
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/obj/Debug/net8.0/refint/Catalog.Application.dll
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.pdb
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/obj/Debug/net8.0/ref/Catalog.Application.dll
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/bin/Debug/net8.0/Catalog.Core.dll
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/bin/Debug/net8.0/Catalog.Core.pdb
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.csproj.AssemblyReference.cache
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.csproj.CopyComplete

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Catalog.Application/1.0.0": {
+        "dependencies": {
+          "Catalog.Core": "1.0.0"
+        },
+        "runtime": {
+          "Catalog.Application.dll": {}
+        }
+      },
+      "Catalog.Core/1.0.0": {
+        "runtime": {
+          "Catalog.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Catalog.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Catalog.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

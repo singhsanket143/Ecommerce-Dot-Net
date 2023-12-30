@@ -1,0 +1,17 @@
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/bin/Debug/net8.0/Catalog.Infrastructure.deps.json
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/bin/Debug/net8.0/Catalog.Infrastructure.dll
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/bin/Debug/net8.0/Catalog.Infrastructure.pdb
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/obj/Debug/net8.0/Catalog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/obj/Debug/net8.0/Catalog.Infrastructure.AssemblyInfoInputs.cache
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/obj/Debug/net8.0/Catalog.Infrastructure.AssemblyInfo.cs
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/obj/Debug/net8.0/Catalog.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/obj/Debug/net8.0/Catalog.Infrastructure.dll
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/obj/Debug/net8.0/refint/Catalog.Infrastructure.dll
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/obj/Debug/net8.0/Catalog.Infrastructure.pdb
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/obj/Debug/net8.0/ref/Catalog.Infrastructure.dll
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/bin/Debug/net8.0/Catalog.Application.dll
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/bin/Debug/net8.0/Catalog.Core.dll
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/bin/Debug/net8.0/Catalog.Application.pdb
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/bin/Debug/net8.0/Catalog.Core.pdb
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/obj/Debug/net8.0/Catalog.Infrastructure.csproj.AssemblyReference.cache
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/obj/Debug/net8.0/Catalog.Infrastructure.csproj.CopyComplete

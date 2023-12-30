@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.API/obj/Debug/net8.0/scopedcss/projectbundle/Catalog.API.bundle.scp.css",
+      "PackagePath": "staticwebassets/Catalog.API.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.API/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.API/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.API/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.API/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Catalog.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Catalog.API.props",
+      "PackagePath": "build\\Catalog.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Catalog.API.props",
+      "PackagePath": "buildMultiTargeting\\Catalog.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Catalog.API.props",
+      "PackagePath": "buildTransitive\\Catalog.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
