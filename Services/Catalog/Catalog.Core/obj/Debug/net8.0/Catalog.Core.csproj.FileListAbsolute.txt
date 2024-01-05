@@ -9,3 +9,5 @@
 /Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Core/obj/Debug/net8.0/refint/Catalog.Core.dll
 /Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Core/obj/Debug/net8.0/Catalog.Core.pdb
 /Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Core/obj/Debug/net8.0/ref/Catalog.Core.dll
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Core/obj/Debug/net8.0/Catalog.Core.csproj.AssemblyReference.cache
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Core/obj/Debug/net8.0/Catalog.Core.sourcelink.json

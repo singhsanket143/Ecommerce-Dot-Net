@@ -15,3 +15,4 @@
 /Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/bin/Debug/net8.0/Catalog.Core.pdb
 /Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/obj/Debug/net8.0/Catalog.Infrastructure.csproj.AssemblyReference.cache
 /Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/obj/Debug/net8.0/Catalog.Infrastructure.csproj.CopyComplete
+/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/obj/Debug/net8.0/Catalog.Infrastructure.sourcelink.json
