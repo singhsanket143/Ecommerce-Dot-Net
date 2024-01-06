@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tyKba/4lfBWMlT32dHj9lDrI0D4rwX5EW3aw2pC5eFOkyneFQiotwmiupLHXZ7T2OEj+OssCcMzsnTXPklwS/Q==",
+  "dgSpecHash": "oib24WZHOSl0VDIrAqsgcyi6qILSPgRNyjYKbz+eKPgNw9/nMwDLjxgYHxUOTRbsHOiMRUArKTHILDnRcpWzrw==",
   "success": true,
   "projectFilePath": "/Users/sanketsingh/Developer/Ecommerce/Services/Catalog/Catalog.Infrastructure/Catalog.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "/Users/sanketsingh/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "/Users/sanketsingh/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
     "/Users/sanketsingh/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/sanketsingh/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
     "/Users/sanketsingh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/Users/sanketsingh/.nuget/packages/microsoft.extensions.diagnostics.abstractions/8.0.0/microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
     "/Users/sanketsingh/.nuget/packages/microsoft.extensions.diagnostics.healthchecks/8.0.0/microsoft.extensions.diagnostics.healthchecks.8.0.0.nupkg.sha512",
